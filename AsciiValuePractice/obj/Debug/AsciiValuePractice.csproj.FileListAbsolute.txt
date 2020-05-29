@@ -1,0 +1,6 @@
+C:\Users\LALIT KUMAR\source\repos\AsciiValuePractice\AsciiValuePractice\bin\Debug\AsciiValuePractice.exe.config
+C:\Users\LALIT KUMAR\source\repos\AsciiValuePractice\AsciiValuePractice\bin\Debug\AsciiValuePractice.exe
+C:\Users\LALIT KUMAR\source\repos\AsciiValuePractice\AsciiValuePractice\bin\Debug\AsciiValuePractice.pdb
+C:\Users\LALIT KUMAR\source\repos\AsciiValuePractice\AsciiValuePractice\obj\Debug\AsciiValuePractice.csprojAssemblyReference.cache
+C:\Users\LALIT KUMAR\source\repos\AsciiValuePractice\AsciiValuePractice\obj\Debug\AsciiValuePractice.exe
+C:\Users\LALIT KUMAR\source\repos\AsciiValuePractice\AsciiValuePractice\obj\Debug\AsciiValuePractice.pdb
